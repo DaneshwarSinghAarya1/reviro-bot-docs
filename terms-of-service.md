@@ -1,46 +1,36 @@
 Reviro Bot - Terms of Service
 
-Welcome to Reviro! By using Reviro Bot ("the Bot"), you agree to the following Terms of Service. If you do not agree, please discontinue use immediately.
+1. Introduction
+Welcome to Reviro! By using Reviro, you agree to these Terms of Service. If you do not agree, please do not use the bot.
 
-1. Acceptance of Terms
+2. Usage Rules
+By using Reviro, you agree to:
 
-By inviting and using Reviro in your Discord server, you acknowledge that you have read, understood, and agree to these Terms of Service.
+Follow Discord’s Terms of Service and Community Guidelines.
+Use Reviro responsibly and not for any illegal, harmful, or abusive activities.
+Not attempt to exploit, modify, or abuse the bot’s functionalities.
+3. Features & Limitations
+Reviro offers:
 
-2. Use of the Bot
-
-Reviro is designed to assist with server management and reviews.
-
-You must not use the Bot for any unlawful activities, including but not limited to harassment, hate speech, or spam.
-
-We reserve the right to revoke access to the Bot at any time for violations of these terms.
-
-3. User Responsibilities
-
-You are responsible for ensuring that the Bot is used in accordance with Discord's Terms of Service.
-
-You must not attempt to exploit, modify, or abuse the Bot’s functionality.
+Server management tools.
+A review system for honest feedback.
+Moderation features.
+We reserve the right to update, modify, or remove features at any time.
 
 4. Data Collection & Privacy
+Reviro stores necessary data for moderation and review functionalities.
+We do not sell or share user data.
+By using Reviro, you consent to data collection as described in our Privacy Policy.
 
-The Bot may collect and store user-generated content, such as reviews.
+6. Termination & Ban Policy
+We reserve the right to block or ban users/servers that violate these terms.
+If you believe a ban was unfair, you may appeal by contacting support.
 
-No personally identifiable information is collected.
+8. Liability Disclaimer
+Reviro is provided “as is” without warranties.
+We are not responsible for any damages or issues caused by using the bot.
 
-We do not share or sell any data collected by the Bot.
-
-5. Service Availability
-
-We do not guarantee uninterrupted service and may modify or discontinue the Bot at any time.
-
-Updates and changes may be applied to improve functionality without prior notice.
-
-6. Limitation of Liability
-
-Reviro is provided "as-is" without any warranties.
-
-We are not liable for any damages or losses resulting from the use or inability to use the Bot.
-
-7. Changes to the Terms
+9. Changes to the Terms
 
 We reserve the right to update these Terms at any time.
 
