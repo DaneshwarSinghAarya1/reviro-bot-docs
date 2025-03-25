@@ -10,8 +10,6 @@ User Data: Your Discord username, user ID, and messages sent to the bot.
 
 Server Data: Server name, ID, and roles for moderation purposes.
 
-Review Data: Any reviews submitted using the bot’s review system.
-
 3. How We Use Your Data
 We use the collected data to:
 
